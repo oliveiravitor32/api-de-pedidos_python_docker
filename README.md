@@ -11,9 +11,9 @@ Trabalho 1 — Desenvolvimento de Sistemas Distribuídos.
 | Nome completo | RA | Turma |
 |---|---|---|
 | BRUNO BONAVIGO DACAL | N309EC4 | CC8P13
-| HELEN APARECIDA DA SILVA – N070498 | CC8P13
+| HELEN APARECIDA DA SILVA | N070498 | CC8P13
 | LUCAS DE ARAUJO VERGARA | N090758 | CC8P13
-| Vitor Oliveira dos Santos | N083DG1 | CC8Q13 |
+| Vitor Oliveira dos Santos | N083DG1 | CC8Q13 
 
 
 ---
